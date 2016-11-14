@@ -3,14 +3,7 @@
 <h2>My name is Linh</h2>
 
 <script>
-/**
- * @title WET-BOEW Field Flow
- * @overview Field and flow where you want to go. Your code and it's configuration is the decision tree.
- * @license wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html
- * @about http://universallabs.org/wet/labs/index-en.php#jj-down
- * @author @duboisp (Github)
- * @version 1.0-next.2
- */
+
 (function( $, document, wb ) {
 	"use strict";
 

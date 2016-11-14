@@ -20,6 +20,18 @@
 	</div>
 </div>
 
+<div class="jj-down">
+	<p>Find the plugin for the action you need.</p>
+
+	<ul>
+		<li><a href="http://wet-boew.github.io/v4.0-ci/demos/data-ajax/data-ajax-en.html">Inserting content</a></li>
+		<li><a href="http://wet-boew.github.io/v4.0-ci/demos/lightbox/lightbox-en.html">Photo galery</a></li>
+		<li><a href="http://wet-boew.github.io/v4.0-ci/demos/charts/charts-en.html">Draw charts</a></li>
+		<li><a href="http://wet-boew.github.io/v4.0-ci/demos/details/details-en.html">Expand and collapse content</a></li>
+		<li><a href="http://wet-boew.github.io/v4.0-ci/demos/equalheight/equalheight-en.html">Set a consistant height</a></li>
+		<li><a href="http://wet-boew.github.io/v4.0-ci/demos/overlay/overlay-en.html">Popup content</a></li>
+	</ul>
+</div>
 <script type="text/javascript">
 
 (function( $, document, wb ) {

@@ -1,5 +1,3 @@
-<script type="text/javascript">
-	
 (function( $, document, wb ) {
 	"use strict";
 
@@ -1577,4 +1575,3 @@
 	// Add the timer poke to initialize the plugin
 	wb.add( selector );
 })( jQuery, document, wb );
- </script>

@@ -20,7 +20,7 @@
 	</div>
 </div>
 
-<div class="jj-down">
+<div class="wb-fieldflow">
 	<p>Find the plugin for the action you need.</p>
 
 	<ul>

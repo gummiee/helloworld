@@ -3,6 +3,23 @@
 <h2>My name is Linh</h2>
 <h3>How does this work?</h3>
 
+<div class="well">
+	<div class="wb-hbs" data-wb-hbs='{
+		"template": "#mytemplate",
+		"data": {
+			"firstName": "Pierre",
+			"lastName": "Dubois"
+		}
+	}'></div>
+</div>
+
+<div class="hidden">
+	<div id="mytemplate">
+		<h1>My first template</h1>
+		<p>Created by: {{firstName}} {{lastName}}</p>
+	</div>
+</div>
+
 <script type="text/javascript">
 
 (function( $, document, wb ) {
